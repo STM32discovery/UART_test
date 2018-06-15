@@ -1,2 +1,6 @@
 # UART_test
-code frame is created using "STM32cubeMX" and edited using "Atollic TrueStudio"
+
+Code is created using STM32cubeMX
+
+
+Code is edited using Atollic TrueStudio
